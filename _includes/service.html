@@ -1,0 +1,14 @@
+<div class="awards">
+  <h2>PC Member</h2>
+  {% if site.service %}
+      {% assign service = site.service | sort | reverse %}
+
+      <ul>
+      {% for item in service %}
+      <li>{{item.content}}</li>
+      {% endfor %}
+      </ul>
+  {% else %}
+   <p></p>
+  {% endif %}
+</div>
