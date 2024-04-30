@@ -96,9 +96,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-    #  projects:
-    # output: false
-    # permalink: /projects/:path/
+  projects:
+    output: false
+    permalink: /projects/:path/
   awards:
       defaults:
         layout: post
