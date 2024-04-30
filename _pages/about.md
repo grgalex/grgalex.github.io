@@ -19,19 +19,20 @@ social: true  # includes social icons at the bottom of the page
 I am a doctoral candidate at the [Department of Business Administration](https://ba-en.uoa.gr/)
 of the [University of Athens](https://en.uoa.gr/),
 under the supervision of Assistant Professor [Dimitris Mitropoulos](https://dimitro.gr/).
-I'm also a Systems Architect at the [Greek National Infrastructures for Research and Technology \(GRNET\)]
-(https://grnet.gr/en/).
+I also work as a Systems Architect at the [Greek National Infrastructures for Research and Technology (GRNET)](https://grnet.gr/en/).
 Before joining the University of Athens,
 and after finishing my undergraduate studies
-in Electrical and Computer Engineering at [NTUA](https://www.ece.ntua.gr/en).
-I was a Systems/Software Engineer at Arrikto for 2 years,
+in Electrical and Computer Engineering at [NTUA](https://www.ece.ntua.gr/en),
+I was a Systems/Software Engineer at [Arrikto](https://www.arrikto.com/),
 where I focused on ML systems.
+
 You can find a short CV [here](./assets/pdf/grgalex_cv.pdf).
 
 My research lies at the intersection of systems and software,
 with a focus on improving the reliability of computer systems
 as well as the utilization of traditional and heterogenous
 computational resources.
-I'm currently working on improving
+
+I'm currently trying to improve
 the reliability of Infrastructure-as-Code (IaC) software.
 
