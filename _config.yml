@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Georgios
 middle_name:
 last_name: Alexopoulos
-email: grgalex@ba.uoa.gr
+email: {this-domain}@ba.uoa.gr
 description:
 # footer_text:
 
