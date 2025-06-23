@@ -19,7 +19,7 @@ jobs:
         ruby-version: '3.0.2'
     - name: Build Jekyll site
       run: |
-        apt install imagemagick
+        apt install libmagickwand-dev
         set -xo pipefail
         rm -rf _site/*
         gem install bundler
