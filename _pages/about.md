@@ -28,11 +28,15 @@ where I focused on ML systems.
 
 You can find a short CV [here](./assets/pdf/grgalex_cv.pdf).
 
-My research lies at the intersection of systems and software,
-with a focus on improving the reliability of computer systems
-as well as the utilization of traditional and heterogenous
-computational resources.
+My research lies at the intersection
+of systems and software,
+with a focus on improving
+the security and reliability of computer systems.
 
-I'm currently trying to improve
-the reliability of Infrastructure-as-Code (IaC) software.
+I'm currently scrutinizing the boundary between
+scripting languages (e.g., Python, JavaScript)
+and compiled languages (e.g., C/C++, Rust).
 
+On the side, I'm also trying to improve
+the reliability of
+Infrastructure-as-Code (IaC) software.
