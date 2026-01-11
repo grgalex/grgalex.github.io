@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a doctoral candidate at the [Department of Business Administration](https://ba-en.uoa.gr/)
 of the [University of Athens](https://en.uoa.gr/),
-under the supervision of Assistant Professor [Dimitris Mitropoulos](https://dimitro.gr/).
+under the supervision of Associate Professor [Dimitris Mitropoulos](https://dimitro.gr/).
 I also work as a Systems Architect at the [Greek National Infrastructures for Research and Technology (GRNET)](https://grnet.gr/en/).
 Before joining the University of Athens,
 and after finishing my undergraduate studies
