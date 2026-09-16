@@ -1,0 +1,4 @@
+# Optional: map a bib `abbr` (e.g. "ICSE'26") to a venue URL and badge color.
+# "ICSE'26":
+#   url: https://conf.researchr.org/home/icse-2026
+#   color: "#00369f"

@@ -1,0 +1,12 @@
+<div class="service">
+  {% if site.service != blank %}
+    {% assign service = site.service | sort | reverse %}
+    <ul>
+      {% for item in service %}
+        <li>{{ item.content | remove: '<p>' | remove: '</p>' | strip }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No service so far...</p>
+  {% endif %}
+</div>
