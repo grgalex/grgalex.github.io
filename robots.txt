@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /assets/pdf/grgalex_cv.pdf
 
 Sitemap: https://grgalex.gr/sitemap.xml
