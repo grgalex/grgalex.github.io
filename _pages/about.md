@@ -41,9 +41,15 @@ of systems and software,
 with a focus on improving
 the security and reliability of computer systems.
 
-I'm currently scrutinizing the boundary between
-scripting languages (e.g., Python, JavaScript)
-and compiled languages (e.g., C/C++, Rust).
+My PhD work scrutinizes the boundary between
+high-level languages (e.g., Python, JavaScript)
+and compiled languages (e.g., C/C++, Rust),
+including how vulnerabilities and bloat
+propagate across language ecosystems.
+
+More recently, I've been working on LLM security,
+studying how LLM-based systems can be manipulated or misled,
+and how to make them trustworthy.
 
 On the side, I'm also trying to improve
 the reliability of
