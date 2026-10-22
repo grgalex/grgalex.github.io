@@ -47,8 +47,9 @@ and compiled languages (e.g., C/C++, Rust),
 including how vulnerabilities and bloat
 propagate across language ecosystems.
 
-More recently, I've been working on LLM security,
-studying how LLM-based systems can be manipulated or misled,
+More recently, I've been working on LLMs and security in both directions:
+using LLMs to find security and reliability issues in software,
+and studying how LLM-based systems themselves can be manipulated or misled,
 and how to make them trustworthy.
 
 On the side, I'm also trying to improve
