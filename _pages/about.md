@@ -41,7 +41,7 @@ of systems and software,
 with a focus on improving
 the security and reliability of computer systems.
 
-My PhD work scrutinizes the boundary between
+My PhD work examines the boundary between
 high-level languages (e.g., Python, JavaScript)
 and compiled languages (e.g., C/C++, Rust),
 including how vulnerabilities and bloat
