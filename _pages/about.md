@@ -36,22 +36,13 @@ where I focused on ML systems.
 
 You can find a short CV [here](./assets/pdf/grgalex_cv.pdf).
 
-My research lies at the intersection
-of systems and software,
-with a focus on improving
-the security and reliability of computer systems.
+My research lies at the intersection of systems and software,
+with a focus on security and reliability.
 
-My PhD work examines the boundary between
+My PhD examines the boundary between
 high-level languages (e.g., Python, JavaScript)
 and compiled languages (e.g., C/C++, Rust),
-including how vulnerabilities and bloat
-propagate across language ecosystems.
-
-More recently, I've been working on LLMs and security in both directions:
-using LLMs to find security and reliability issues in software,
-and studying how LLM-based systems themselves can be manipulated or misled,
-and how to make them trustworthy.
-
-On the side, I'm also trying to improve
-the reliability of
-Infrastructure-as-Code (IaC) software.
+including how vulnerabilities and bloat cross language ecosystems.
+I also work on LLMs for security and the security of LLMs.
+Other interests include GPU sharing for ML workloads
+and the reliability of Infrastructure-as-Code.
